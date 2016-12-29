@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'JavaScript: The Good Parts' },
-    { title: 'Harry Pothead' },
-    { title: 'The Light Tower' },
-    { title: 'Eloquent Life' }
+    { title: 'JavaScript: The Good Parts', pages: 101 },
+    { title: 'Harry Pothead', pages: 39 },
+    { title: 'The Light Tower', pages: 85 },
+    { title: 'Eloquent Life', pages: 1 }
   ]
 }
